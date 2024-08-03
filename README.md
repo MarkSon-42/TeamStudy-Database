@@ -17,13 +17,13 @@
     <td align="center"><a href="https://github.com/
 eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 eunah320</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-mirea70</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-daheepk</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-yeongjinjeong</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-Beomsususu</b></sub></a><br /></td>
+    <td align="center"><a href="https://avatars.githubusercontent.com/u/174340494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+Juni-x</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/lov-etan"><img src="https://avatars.githubusercontent.com/u/171107738?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+lov-etan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/minjeeki"><img src="https://avatars.githubusercontent.com/u/148981647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+minjeeki</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+unboxing96</b></sub></a><br /></td>
   </tr>
 </table>
