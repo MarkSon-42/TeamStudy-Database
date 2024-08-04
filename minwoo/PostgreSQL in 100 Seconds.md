@@ -101,5 +101,3 @@
 98. 데이터베이스 시스템은 새로운 기능과 개선으로 지속적으로 발전합니다.
 99. PostgreSQL은 클라우드에서 무료로 사용 가능한 Neon DB의 후원에 감사하며, 이를 통해 데이터베이스에 접근할 수 있습니다.
 100. 비디오의 마지막 부분에서는 Neon DB의 후원에 감사를 표하며 시청자에게 다음 비디오에서 만나자고 인사합니다.
-
-This translation covers the full range of details provided in the video summary, now in Korean.
