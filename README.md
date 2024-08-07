@@ -24,11 +24,11 @@ minjeeki</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 unboxing96</b></sub></a><br /></td>
      <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-Opening..</b></sub></a><br /></td>
+-</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-Opening..</b></sub></a><br /></td>
+-</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-Opening..</b></sub></a><br /></td>
+-</b></sub></a><br /></td>
   </tr>
   </tr>
   
