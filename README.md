@@ -52,10 +52,10 @@
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 1  | PostgreSQL 입문수업            | Basics of SQL, including syntax and queries.      | ✅           |
-| Week 2  | pgAdmin4에서 온라인 교보문고 주문 시스템 ERD그리기 실습    | Complex queries, joins, and subqueries.           | ✅            |
-| Week 3  | GraphQL을 위한 PostgreSQL | Normalization, ER diagrams, and schema design + SQL Test    | 📅           |
-| Week 4  | GraphQL을 위한 PostgreSQL   | Indexing, query optimization, and performance tips.| 📅          |
+| Week 1  | PostgreSQL 입문수업            | SQL 개요, 기초 문법, PostgresSQL vs MySQL     | ✅           |
+| Week 2  | pgAdmin4에서 온라인 교보문고 주문 시스템 ERD그리기 실습    | ERD를 그려보고 실제 스키마 구성을 어떻게 하는지 실습   | ✅            |
+| Week 3  | GraphQL을 위한 PostgreSQL | 미니 프로젝트 1   | 📅           |
+| Week 4  | GraphQL을 위한 PostgreSQL   | 미니 프로젝트 1| 📅          |
 | Week 5  | SQL in Real-World Applications | Practical applications and case studies.          | 📅          |
 | Week 6  | SQL in Real-World Applications | Practical applications and case studies.          | 📅          |
 | Week 7  | SQL in Real-World Applications | Practical applications and case studies.          | 📅          |
