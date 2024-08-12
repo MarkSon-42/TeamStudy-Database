@@ -11,7 +11,7 @@
 
 -  따라서, 저희 스터디는 16주 내외의 기간동안 데이터베이스를 강의, 기술면접 연습, 과제, 시험을 통해 개발자에게 필요한 데이터베이스 역량을 기르는 것을 목표로 합니다.
 
--  구체적으로 데이터베이스 이론정리, 일대일 및 다대일 기술 면접, 데이터베이스 미니 프로젝트 그리고 하반기에 예졍된 SQL자격증 응시 및 취득 총 4가지 컨텐츠를 진행합니다.
+-  구체적으로 데이터베이스 이론 학습, 일대일 및 다대일 기술 면접, 데이터베이스 미니 프로젝트 그리고 하반기에 예정인 SQLD자격증 응시 및 취득 총 4가지 컨텐츠를 진행합니다.
 
 
 
@@ -76,8 +76,7 @@
   <tr>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
  손민우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/
-eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 정은아</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/lov-etan"><img src="https://avatars.githubusercontent.com/u/171107738?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 홍지우</b></sub></a><br /></td>
@@ -89,9 +88,9 @@ eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" 
 -</b></sub></a><br /></td>
 <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 -</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+-</b></sub></a><br /></td>
   </tr>
   </tr>
-  
   </tr>
- 
 </table>
