@@ -56,9 +56,9 @@
 | Week 1  | PostgreSQL 입문수업 + 쉬운코드 1 ~ 4강     | SQL 개요, 기초 문법, PostgresSQL vs MySQL     | ✅           |
 | Week 2  | pgAdmin4,교보문고 주문 시스템 ERD + 쉬운코드 5 ~ 6강   | ERD를 그려보고 실제 스키마 구성을 어떻게 하는지 실습   | ✅            |
 | Week 3  | 쉬운코드 데이터베이스 7 ~ 8강 | SQL로 데이터 조회하기, NULL의 의미 + 프로그래머스 25분 SQL문제풀이   | ✅           |
-| Week 4  | 쉬운코드 데이터베이스 9 ~ 10강 | group by, aggregate function, order by를 설명  | ✅          |
+| Week 4  | 쉬운코드 데이터베이스 9 ~ 10강 | group by, aggregate function, order by를 설명 + [과제 1, 2] : PosgresSQL 설치와 교보문고 온라인 ERD 구현 과제 | ✅          |
 | Week 5  | 쉬운코드 데이터베이스 11 ~ 13강 | 프로시저의 동작 방식과 특징 + 프로그래머스 25분 SQL문제풀이  | ✅          |
-| Week 6  | 쉬운코드 데이터베이스 14 ~ 16강 | 트랜잭션(transaction) + 프로그래머스 25분 SQL문제풀이     | 📅          |
+| Week 6  | 쉬운코드 데이터베이스 14 ~ 16강 | 트랜잭션(transaction) + 프로그래머스 25분 SQL문제풀이 + [과제 3] : Supabase로 CRUD 구현 (Based PostgreSQL)  | 📅          |
 | Week 7  | 쉬운코드 데이터베이스 17 ~ 18강 | snapshot isolation + 프로그래머스 25분 SQL문제풀이| 📅          |
 | Week 8  | 쉬운코드 데이터베이스 19 ~ 21강 |  DB MVCC 개념 + 프로그래머스 25분 SQL문제풀이    | 📅          |
 | Week 9  | 쉬운코드 데이터베이스 22 ~ 24강 | functional dependency(FD : 함수 종속) + 프로그래머스 25분 SQL문제풀이     | 📅          |
