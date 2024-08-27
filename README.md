@@ -53,22 +53,48 @@
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 1  | PostgreSQL 입문수업 + 쉬운코드 1 ~ 4강     | SQL 개요, 기초 문법, PostgresSQL vs MySQL     | ✅           |
-| Week 2  | pgAdmin4,교보문고 주문 시스템 ERD + 쉬운코드 5 ~ 6강   | ERD를 그려보고 실제 스키마 구성을 어떻게 하는지 실습   | ✅            |
-| Week 3  | 쉬운코드 데이터베이스 7 ~ 8강 | SQL로 데이터 조회하기, NULL의 의미 + 프로그래머스 25분 SQL문제풀이   | ✅           |
-| Week 4  | 쉬운코드 데이터베이스 9 ~ 10강 | group by, aggregate function, order by를 설명 + [과제 1, 2] : PosgresSQL 설치와 교보문고 온라인 ERD 구현 과제 | ✅          |
-| Week 5  | 쉬운코드 데이터베이스 11 ~ 13강 | 프로시저의 동작 방식과 특징 + 프로그래머스 25분 SQL문제풀이  | ✅          |
-| Week 6  | 쉬운코드 데이터베이스 14 ~ 16강 | 트랜잭션(transaction) + 프로그래머스 25분 SQL문제풀이 + [과제 3] : Supabase로 CRUD 구현 (Based PostgreSQL)  | 📅          |
-| Week 7  | 쉬운코드 데이터베이스 17 ~ 18강 | snapshot isolation + 프로그래머스 25분 SQL문제풀이| 📅          |
-| Week 8  | 쉬운코드 데이터베이스 19 ~ 21강 |  DB MVCC 개념 + 프로그래머스 25분 SQL문제풀이    | 📅          |
-| Week 9  | 쉬운코드 데이터베이스 22 ~ 24강 | functional dependency(FD : 함수 종속) + 프로그래머스 25분 SQL문제풀이     | 📅          |
-| Week 10  | 쉬운코드 데이터베이스 25 ~ 26강 | B tree의 특징, 데이터 삽입 + 프로그래머스 25분 SQL문제풀이  + 프로그래머스 25분 SQL문제풀이       | 📅          |
-| Week 11  | 쉬운코드 데이터베이스 27강 |  B tree 데이터 삭제 + 프로그래머스 25분 SQL문제풀이    | 📅          |
-| Week 12  | 쉬운코드 데이터베이스 28강 |   B tree의 DB 인덱스(index) 사용 이유 + 프로그래머스 25분 SQL문제풀이    | 📅          |
-| Week 13  | 쉬운코드 데이터베이스 29강 | DB 파티셔닝, 샤딩, 레플리케이션 + 프로그래머스 25분 SQL문제풀이  | 📅          |
-| Week 14  | 쉬운코드 데이터베이스 30강 | DBCP (DB connection pool)의 개념 + 프로그래머스 25분 SQL문제풀이 | 📅          |
-| Week 15  | 쉬운코드 데이터베이스 31강(Completed) | NoSQL 설명과 RDB와의 차이점 + 프로그래머스 25분 SQL문제풀이   | 📅          |
-| Week 16  | 데이터베이스 스터디 회고 | 학습에 대한 회고를 진행하여, 개발자의 회고 작업을 경험 | 📅          |
+| Week 1  | PostgreSQL 입문수업 + 쉬운코드 1 ~ 2강     | SQL 개요, 기초 문법, PostgresSQL vs MySQL     | ✅           |
+| Week 2  | pgAdmin4,교보문고 주문 시스템 ERD + 쉬운코드 3 ~ 4강   | ERD를 그려보고 실제 스키마 구성을 어떻게 하는지 실습   | ✅            |
+| Week 3  | 쉬운코드 데이터베이스 5 ~ 6강 | SQL로 데이터 조회하기, NULL의 의미 + 프로그래머스 25분 SQL문제풀이   | ✅           |
+| Week 4  | 쉬운코드 데이터베이스 7 ~ 8강 | group by, aggregate function, order by를 설명 + [과제 1, 2] : PosgresSQL 설치와 교보문고 온라인 ERD 구현 과제 | ✅          |
+| Week 5  | 쉬운코드 데이터베이스 9 ~ 10강 | 프로시저의 동작 방식과 특징 + 프로그래머스 25분 SQL문제풀이  | ✅          |
+| Week 6  | 쉬운코드 데이터베이스 11 ~ 12강 | 트랜잭션(transaction) + 프로그래머스 25분 SQL문제풀이 + [과제 3] : Supabase로 CRUD 구현 (Based PostgreSQL)  | 📅          |
+| Week 7  | 쉬운코드 데이터베이스 13 ~ 14강 | snapshot isolation + 프로그래머스 25분 SQL문제풀이| 📅          |
+| Week 8  | 쉬운코드 데이터베이스 15 ~ 16강 |  DB MVCC 개념 + 프로그래머스 25분 SQL문제풀이    | 📅          |
+| Week 9  | 쉬운코드 데이터베이스 17 ~ 18강 | functional dependency(FD : 함수 종속) + 프로그래머스 25분 SQL문제풀이     | 📅          |
+| Week 10  | 쉬운코드 데이터베이스  | B tree의 특징, 데이터 삽입 + 프로그래머스 25분 SQL문제풀이  + 프로그래머스 25분 SQL문제풀이       | 📅          |
+| Week 11  | 쉬운코드 데이터베이스  |  B tree 데이터 삭제 + 프로그래머스 25분 SQL문제풀이    | 📅          |
+| Week 12  | 데이터베이스 스터디 중간 회고  |   학습에 대한 회고를 진행하여, 개발자의 회고 작업을 경험    | 📅          |
+| Week 13  | 쉬운코드 데이터베이스  | DB 파티셔닝, 샤딩, 레플리케이션 + 프로그래머스 25분 SQL문제풀이  | 📅          |
+| Week 14  | 쉬운코드 데이터베이스  | DBCP (DB connection pool)의 개념 + 프로그래머스 25분 SQL문제풀이 | 📅          |
+| Week 15  | 쉬운코드 데이터베이스  | NoSQL 설명과 RDB와의 차이점 + 프로그래머스 25분 SQL문제풀이   | 📅          |
+| Week 16  |  | 학습에 대한 회고를 진행하여, 개발자의 회고 작업을 경험 | 📅          |
+
+#### 과제 일정 (프로그래머스 SQL 문제 풀이)
+
+### 4주차 과제
+
+# 기한 : 8월 31일 토요일 23:59 ⏰  
+
+![image](https://github.com/user-attachments/assets/306dd54f-7b19-43c4-ba70-307cab8917c5)
+
+# 기한 : 9월 5일 목요일 23:59 ⏰  
+
+![image](https://github.com/user-attachments/assets/77355475-44d6-419a-a2b2-042b643a1f69)
+
+# 기한 : 9월 12일 목요일 23:59 ⏰  (해당 주차 과제 많음 주의)
+
+![image](https://github.com/user-attachments/assets/2b91b2b4-57cf-429a-9484-4e397fe978a8)  
+
+---
+
+![image](https://github.com/user-attachments/assets/dcac0798-2e98-4ea9-b457-ab44c317ca81)
+
+
+
+### 제출 예시
+![image](https://github.com/user-attachments/assets/3a2c70a6-bff1-4391-ba40-f0af88d0a5bc)
+
 
 
 ## 4. 👽 Our Squad
