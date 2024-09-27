@@ -61,8 +61,8 @@
 | Week 5 (08.29~09.04)  | 쉬운코드 데이터베이스 9 ~ 10강 | 1 ~ 5강 까지 내용중 DB면접질문 5개이상 작성 후 토론  | ✅          |
 | Week 6 (09.05~09.11)  | 쉬운코드 데이터베이스 11 ~ 12강 | 6 ~ 8강 까지 내용중 DB면접질문 5개이상 작성 후 토론  | ✅          |
 | Week 7 (09.12~09.18)  | 쉬운코드 데이터베이스 13 ~ 14강 |  9 ~ 12 강 까지 내용중 DB면접질문 5개이상 작성 후 토론| ✅          |
-| Week 8 (09.19~09.25)  | 데이터 분석 SQL Fundamentals Section 01 - 02 | 강의 소개 및 실습 환경 구축 + 조인(Join) - 조인 기반 메커니즘     | 📅          |
-| Week 9 (09.26~10.02)  | 데이터 분석 SQL Fundamentals Section 03 |  조인(Join) - Outer 조인, Non Equi 조인, Cross 조인      | 📅          |
+| Week 8 (09.19~09.25)  | 데이터 분석 SQL Fundamentals Section 01 - 02 | 강의 소개 및 실습 환경 구축 + 조인(Join) - 조인 기반 메커니즘     | ✅       |
+| Week 9 (09.26~10.02)  | 데이터 분석 SQL Fundamentals Section 03 |  조인(Join) - Outer 조인, Non Equi 조인, Cross 조인      | ✅     |
 | Week 10 (10.03~10.09)  | 데이터 분석 SQL Fundamentals Section 04 |  Date, Timestamp, Interval 다루기   | 📅          |
 | Week 11 (10.10~10.16)  | 데이터 분석 SQL Fundamentals Section 05 |  Group by 와 집계 함수(Aggregate Function)   | 📅          |
 | Week 12 (10.17~10.23)  | 데이터 분석 SQL Fundamentals Section 06 | Analytic SQL - 개요와 순위 Analytic | 📅          |
