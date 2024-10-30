@@ -95,10 +95,10 @@
 | Week 7 (09.12~09.18)  | 쉬운코드 데이터베이스 13 ~ 14강 |  9 ~ 12 강 까지 내용중 DB면접질문 5개이상 작성 후 토론| ✅          |
 | Week 8 (09.19~09.25)  | 데이터 분석 SQL Fundamentals Section 01 - 02 | 강의 소개 및 실습 환경 구축 + 조인(Join) - 조인 기반 메커니즘     | ✅       |
 | Week 9 (09.26~10.02)  | 데이터 분석 SQL Fundamentals Section 03 |  조인(Join) - Outer 조인, Non Equi 조인, Cross 조인      | ✅     |
-| Week 10 (10.03~10.09)  | 데이터 분석 SQL Fundamentals Section 04 |  Date, Timestamp, Interval 다루기   | 📅          |
-| Week 11 (10.10~10.16)  | 데이터 분석 SQL Fundamentals Section 05 |  Group by 와 집계 함수(Aggregate Function)   | 📅          |
-| Week 12 (10.17~10.23)  | 데이터 분석 SQL Fundamentals Section 06 | Analytic SQL - 개요와 순위 Analytic | 📅          |
-| Week 13 (10.24~10.30)  | 데이터 분석 SQL Fundamentals Section 07 - 1 | Analytic SQL - 집계(Aggregate) Analytic과 Window 상세 | 📅          |
+| Week 10 (10.03~10.09)  | 데이터 분석 SQL Fundamentals Section 04 |  Date, Timestamp, Interval 다루기   | ✅          |
+| Week 11 (10.10~10.16)  | 데이터 분석 SQL Fundamentals Section 05 |  Group by 와 집계 함수(Aggregate Function)   | ✅          |
+| Week 12 (10.17~10.23)  | 데이터 분석 SQL Fundamentals Section 06 | Analytic SQL - 개요와 순위 Analytic | ✅          |
+| Week 13 (10.24~10.30)  | 데이터 분석 SQL Fundamentals Section 07 - 1 | Analytic SQL - 집계(Aggregate) Analytic과 Window 상세 | ✅          |
 | Week 14 (10.31~11.06)  | 데이터 분석 SQL Fundamentals Section 07 - 2 |  Analytic SQL Window 상세  | 📅          |
 | Week 15 (11.07~11.13)  | 데이터 분석 SQL Fundamentals Section 08 - 1 | Analytic SQL - lead/lag, first_value/last_value | 📅          |
 | Week 16 (11.14~11.20)  | 데이터 분석 SQL Fundamentals Section 08 - 2 | Analytic SQL - 순위/역분위 함수 | 📅          |
