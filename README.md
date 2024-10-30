@@ -116,9 +116,17 @@
 홍지우</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/minjeeki"><img src="https://avatars.githubusercontent.com/u/148981647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 김민지</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-김태현</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/tkdgk1204"><img src="https://avatars.githubusercontent.com/u/176989615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 오상하</b></sub></a><br /></td>
+  </tr>
+</table>
+
+## 4. 🥇 Our Squad (Graduated)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+김태현</b></sub></a><br /></td>
+    
   </tr>
 </table>
