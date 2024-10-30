@@ -5,6 +5,38 @@
   <img src="https://github.com/user-attachments/assets/afd6b48f-1241-438f-9a00-2af8369d61da" alt="Thumbnail" width="500" /></a>
 
 ---  
+
+
+
+## 0. 👽 Our Squad
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
+ 손민우</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+정은아</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/lov-etan"><img src="https://avatars.githubusercontent.com/u/171107738?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+홍지우</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/minjeeki"><img src="https://avatars.githubusercontent.com/u/148981647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+김민지</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/tkdgk1204"><img src="https://avatars.githubusercontent.com/u/176989615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+오상하</b></sub></a><br /></td>
+  </tr>
+</table>
+
+## 0'. 🥇 Our Squad (Graduated)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+김태현</b></sub></a><br /></td>
+    
+  </tr>
+</table>
+
+
+
 ## 1. Introduce
 
 -  많은 개발직군에서 자격요건 혹은 우대사항으로 데이터베이스에 대한 지식 및 경험 내지는 SQL을 다루는 역량을 요구하고 있습니다.
@@ -103,30 +135,3 @@
 ![image](https://github.com/user-attachments/assets/3a2c70a6-bff1-4391-ba40-f0af88d0a5bc)
 
 
-
-## 4. 👽 Our Squad
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
- 손민우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-정은아</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/lov-etan"><img src="https://avatars.githubusercontent.com/u/171107738?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-홍지우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/minjeeki"><img src="https://avatars.githubusercontent.com/u/148981647?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-김민지</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/tkdgk1204"><img src="https://avatars.githubusercontent.com/u/176989615?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-오상하</b></sub></a><br /></td>
-  </tr>
-</table>
-
-## 4. 🥇 Our Squad (Graduated)
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/unboxing96"><img src="https://avatars.githubusercontent.com/u/102353544?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-김태현</b></sub></a><br /></td>
-    
-  </tr>
-</table>
